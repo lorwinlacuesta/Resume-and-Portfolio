@@ -4,7 +4,7 @@ Welcome to my GitHub repository for my Resume and Portfolio.
 
  **Resume:**  
 Download my resume for a summary of my skills, education, and experience in Data Science, Machine Learning, Analytics, Python, and SEO.  
- [Download Resume](https://github.com/lorwinlacuesta/Resume-and-Portfolio/blob/main/Lorwin_Lacuesta_Resume.pdf)
+ [Download Resume](https://github.com/lorwinlacuesta/Resume-and-Portfolio/blob/main/Lacuesta_Lorwin_Resume.pdf)
 
  **Portfolio:**  
 See examples of my work, projects, and results.  
